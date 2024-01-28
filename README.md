@@ -1,0 +1,73 @@
+                       <html>
+                        <head>
+                            <title>NotCoin</title>
+                        </head>
+                        <body>
+                       <p class="md-block-unstyled direction-rtl">این متن نه تخصصی است نه درست نه غلط پس انتخاب با
+                            خودتون است !</p>
+                        <p class="md-block-unstyled direction-rtl">من خیلی در مورد Not Coin جستجو کردم , Not Coin رو نه
+                            میشه اسمش رو سکه گذاشت , نه هیچی نه ارز دیجیتال , چون هنوز نه جز ارزهای دیجیتال شده نه اینکه
+                            منبع خبری رسمی اعلام کرده که کی یا چطور قرار وارد ارزهای دیجیتال بشه.</p>
+                        <h3 class="md-block-header-three direction-rtl">کلا Not Coin چیه :</h3>
+                        <p class="md-block-unstyled direction-rtl">چند مدت پیش در یک سمینار میان Not Coin رو معرفی
+                            میکنند که با کلکیک کردن بر روی یک سکه در <a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Ft.me%2Fnotcoin_bot&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=a8kZp5oE6KJ%2FTzaXjRwPw%2FsWSiWA8idxdp5mV5k26lU%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">روبات </a>میشه Coin جمع
+                            کرد. ولی هیچ منبعی اعلام نکرده که قراره که وارد بازار ارز دیجیتال بشه یا نه , و حتی در صفحه
+                            خود روبات و حتی کانال Not Coin از این Coin با عنوان Nothing نام برده شده . نکته جالب اینجاست
+                            که شما میتونید به دوستاتون معرفی کنید و حتی عضو Squad بشین و با اینکار Not Coin رایگان
+                            دریافت کنید و حتی وقتی شما کسی رو معرفی کنید اون کسی که از طریق لینک شما وارد میشود بهش 2500
+                            تا کوین میده.</p>
+                        <p class="md-block-unstyled direction-rtl">مثلا این لینک دعوت عضویت از طریق من هستش :</p>
+                        <h4 class="md-block-header-four direction-rtl"><a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Ft.me%2Fnotcoin_bot%3Fstart%3Drp_5558439&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=uSfJm8Y3B7N3qRHHMUrMaMyarvK%2FC1ob0gHALfWj9h0%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">لینک دعوت به دریافت
+                                NotCoin از طریق من</a></h4>
+                        <p class="md-block-unstyled direction-ltr"><a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Ft.me%2Fnotcoin_bot%3Fstart%3Dr_573809_5558439&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=9zczHzH%2F3vrlkbSErjxHu3C3INjGimVdlpH5FR3J3w4%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">Your team invite link</a>
+                        </p>
+                        <h4 class="md-block-header-four direction-ltr"><a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Ft.me%2Fnotcoin_bot%3Fstart%3Drp_5558439&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=uSfJm8Y3B7N3qRHHMUrMaMyarvK%2FC1ob0gHALfWj9h0%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">Your personal invite
+                                link</a></h4>
+                        <p class="md-block-unstyled direction-rtl">سایت decrypt.co یک <a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Fdecrypt.co%2F212154%2Ftrillions-notcoin-farmed-telegram-meme-coin-game-but-theres-catch&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=riUJjxpGHxlbjVUQokOWDLCPd3%2F7wVnWllVPwyZJUKU%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">مقاله </a>در این مورد
+                            نوشته با عنوان :</p>
+                        <h3 class="md-block-header-three direction-ltr">Trillions of &#x27;Notcoin&#x27; Farmed in
+                            Telegram Meme Coin Game—But There&#x27;s a Catch</h3>
+                        <p class="md-block-unstyled"><br /></p>
+                        <p class="md-block-unstyled direction-rtl">عنوان جالب و قابل توجهی هستش که دلیلی شد که هم مطالعش
+                            کنم هم کمی در مورد Not Coin اینجا بنویسم ؛</p>
+                        <p class="md-block-unstyled direction-rtl">مخصوصا این متن در این مقاله از همه بیشتر تو چشم است :
+                        </p>
+                        <p class="md-block-unstyled"><br /></p>
+                        <blockquote class="md-block-blockquote direction-ltr">Telegram&#x27;s Notcoin clicker game looks
+                            like a gateway to free crypto. However, the meme coin isn&#x27;t real yet—but an airdrop
+                            could be coming.</blockquote>
+                        <p class="md-block-unstyled direction-rtl">منظورش رو خیلی خوب توضیح داده که ازش به عنوان بازی
+                            نام برده و گفته که این سکه های هنوز واقعی نیستند ولی به زودی واقعی میشن . این جمله آدم رو
+                            قلقلک میده برای ادامه دادن به این بازی :) .<a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Fdecrypt.co%2Fauthor%2Fkateirwin&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=jO93fq8D%2FysqYhRfLhg5zeNairP6wxoRhPFyj%2Fa8lPY%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">&lt;br/&gt; </a>متن جالب
+                            بعدی که در این مقاله هست :</p>
+                        <blockquote class="md-block-blockquote direction-ltr">Notcoin is a meme coin that, for now, is
+                            just an idea. It may be minted on the TON blockchain in the future, but for now the project
+                            is more of an internet marketing plot than a real cryptocurrency</blockquote>
+                        <p class="md-block-unstyled"><br /></p>
+                        <p class="md-block-unstyled direction-rtl">این متن هم که توضیح میده این بازی یک ایده بود و شاید
+                            به زودی به ارز دیجیتال تلگرام (TON) تبدیل بشه .</p>
+                        <p class="md-block-unstyled direction-rtl">دو عدد ایده جالب در مورد اسم Not Coin هست که یکی میگه
+                            Not Coin از برعکس شده کلمه Ton که ارز دیجیتال تلگرام هستش اقتباس شده و یکی دیگه هم هست که
+                            حتی اول شروع روبات تلگرام نمایش داده میشه : Nothing .</p>
+                        <p class="md-block-unstyled"><br /></p>
+                        <p class="md-block-unstyled direction-rtl">امیدوارم فعلا این نوشته بتونه کمی در مورد Not Coin
+                            توضیح داده باشه ,</p>
+                        <p class="md-block-unstyled direction-rtl">شاید به زودی مقاله جدیدی با موضوع این بازی نوشتم که
+                            دیگه از بازی تبدیل به ارز دیجیتال واقعی شده باشه :).<br />منبع : <a
+                                href="https://l.vrgl.ir/r?ad=1&amp;l=https%3A%2F%2Fiamroozbeh.ir%2F1402%2F11%2F07%2Fnot-coin-%25da%2586%25db%258c%25d8%25b3%25d8%25aa-%25d9%2588-%25d8%25ad%25d9%2582%25db%258c%25d9%2582%25d8%25aa-%25d9%2587%25d8%25a7%25db%258c%25db%258c-%25d8%25af%25d8%25b1-%25d9%2585%25d9%2588%25d8%25b1%25d8%25af%25d8%25b4%2F&amp;si=nlxwpwmog2eb&amp;st=post&amp;u=wafoo2z4ne4w&amp;k=d0eIA6YbOneb2U9gpKQdwOIZGRm133OulEoYmnL9TWM%3D"
+                                class="md-inline-link" rel="noopener nofollow" target="_blank">متن همین مقاله در وبسایت
+                                شخصی بنده </a></p>
+                        </body>
+                                </html>
